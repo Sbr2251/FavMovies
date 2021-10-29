@@ -1,0 +1,27 @@
+body {
+    background-color:cadetblue;
+    font-family: "Papyrus", sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+ul {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    padding-top: 2.5%;
+}
+p {
+    font-size: large;
+}
+h2 {
+    text-decoration: underline 0.15em rgba(204, 201, 43, 0);
+    transition: text-decoration-color 300ms;
+}
+h2:hover {
+    text-decoration-color: rgb(192, 129, 70);
+}
